@@ -1,6 +1,6 @@
 @echo off
 color 4
-title Master Bot List
+title Bot Açılıyor!
 :a
-node index.js
+node main.js
 goto a
